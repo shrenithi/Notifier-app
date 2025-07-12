@@ -7,4 +7,4 @@ while True:
         message="Time to drink water and stretch!",
         timeout=10
     )
-    time.sleep(3600)  # wait for 1 hour (3600 seconds)
+    time.sleep(60)  
